@@ -7,11 +7,11 @@
 > * Service - Business Tier
 > * Controller - Presentation Tier
 ## :fire: Features:
-> * :white_medium_small_square:Registration, authentication and authorization;
+> * Registration, authentication and authorization;<br />
     It is possible to register a new user, log in to an existing account, and operate the service from that account depending on the role given.
-> * :white_medium_small_square:Scrolling through the information;
+> * Scrolling through the information;<br />
     The user has the ability to view the available movies, as well as orders. The administrator can also view detailed information about cinema halls and the user database.
-> * :white_medium_small_square:Information handling;
+> * Information handling;<br />
     The user has an opportunity to buy tickets (selectively add it to a shopping cart with further purchase). The administrator is given the opportunity to change the hall information, availability of movies and its sessions.
 ## :wrench: Technologies:
 > * Java 11
